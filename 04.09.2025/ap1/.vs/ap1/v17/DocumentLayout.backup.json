@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Informatyka\\Desktop\\Jakub Moli\u0144ski4CT\\04.09.2025\\ap1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58FF5669-CFB6-4CD2-80F6-ACC339FB900F}|ap1\\ap1.csproj|c:\\users\\informatyka\\desktop\\jakub moli\u0144ski4ct\\04.09.2025\\ap1\\ap1\\ap1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{58FF5669-CFB6-4CD2-80F6-ACC339FB900F}|ap1\\ap1.csproj|solutionrelative:ap1\\ap1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FF5669-CFB6-4CD2-80F6-ACC339FB900F}|ap1\\ap1.csproj|c:\\users\\informatyka\\desktop\\jakub moli\u0144ski4ct\\04.09.2025\\ap1\\ap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FF5669-CFB6-4CD2-80F6-ACC339FB900F}|ap1\\ap1.csproj|solutionrelative:ap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FF5669-CFB6-4CD2-80F6-ACC339FB900F}|ap1\\ap1.csproj|c:\\users\\informatyka\\desktop\\jakub moli\u0144ski4ct\\04.09.2025\\ap1\\ap1\\servertcp\\uruchomienie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FF5669-CFB6-4CD2-80F6-ACC339FB900F}|ap1\\ap1.csproj|solutionrelative:ap1\\servertcp\\uruchomienie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FF5669-CFB6-4CD2-80F6-ACC339FB900F}|ap1\\ap1.csproj|c:\\users\\informatyka\\desktop\\jakub moli\u0144ski4ct\\04.09.2025\\ap1\\ap1\\clienttcp\\uruchomienie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FF5669-CFB6-4CD2-80F6-ACC339FB900F}|ap1\\ap1.csproj|solutionrelative:ap1\\clienttcp\\uruchomienie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FF5669-CFB6-4CD2-80F6-ACC339FB900F}|ap1\\ap1.csproj|c:\\users\\informatyka\\desktop\\jakub moli\u0144ski4ct\\04.09.2025\\ap1\\ap1\\ap1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58FF5669-CFB6-4CD2-80F6-ACC339FB900F}|ap1\\ap1.csproj|solutionrelative:ap1\\ap1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ap1",
+              "DocumentMoniker": "C:\\Users\\Informatyka\\Desktop\\Jakub Moli\u0144ski4CT\\04.09.2025\\ap1\\ap1\\ap1.csproj",
+              "RelativeDocumentMoniker": "ap1\\ap1.csproj",
+              "ToolTip": "C:\\Users\\Informatyka\\Desktop\\Jakub Moli\u0144ski4CT\\04.09.2025\\ap1\\ap1\\ap1.csproj",
+              "RelativeToolTip": "ap1\\ap1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-04T12:00:00.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Uruchomienie.cs",
+              "DocumentMoniker": "C:\\Users\\Informatyka\\Desktop\\Jakub Moli\u0144ski4CT\\04.09.2025\\ap1\\ap1\\ServerTCP\\Uruchomienie.cs",
+              "RelativeDocumentMoniker": "ap1\\ServerTCP\\Uruchomienie.cs",
+              "ToolTip": "C:\\Users\\Informatyka\\Desktop\\Jakub Moli\u0144ski4CT\\04.09.2025\\ap1\\ap1\\ServerTCP\\Uruchomienie.cs",
+              "RelativeToolTip": "ap1\\ServerTCP\\Uruchomienie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T11:57:04.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Uruchomienie.cs",
+              "DocumentMoniker": "C:\\Users\\Informatyka\\Desktop\\Jakub Moli\u0144ski4CT\\04.09.2025\\ap1\\ap1\\ClientTCP\\Uruchomienie.cs",
+              "RelativeDocumentMoniker": "ap1\\ClientTCP\\Uruchomienie.cs",
+              "ToolTip": "C:\\Users\\Informatyka\\Desktop\\Jakub Moli\u0144ski4CT\\04.09.2025\\ap1\\ap1\\ClientTCP\\Uruchomienie.cs",
+              "RelativeToolTip": "ap1\\ClientTCP\\Uruchomienie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T11:56:45.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ap1",
+              "DocumentMoniker": "C:\\Users\\Informatyka\\Desktop\\Jakub Moli\u0144ski4CT\\04.09.2025\\ap1\\ap1\\ap1.csproj",
+              "RelativeDocumentMoniker": "ap1\\ap1.csproj",
+              "ToolTip": "C:\\Users\\Informatyka\\Desktop\\Jakub Moli\u0144ski4CT\\04.09.2025\\ap1\\ap1\\ap1.csproj",
+              "RelativeToolTip": "ap1\\ap1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-04T11:55:59.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Informatyka\\Desktop\\Jakub Moli\u0144ski4CT\\04.09.2025\\ap1\\ap1\\Program.cs",
+              "RelativeDocumentMoniker": "ap1\\Program.cs",
+              "ToolTip": "C:\\Users\\Informatyka\\Desktop\\Jakub Moli\u0144ski4CT\\04.09.2025\\ap1\\ap1\\Program.cs",
+              "RelativeToolTip": "ap1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T11:36:40.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

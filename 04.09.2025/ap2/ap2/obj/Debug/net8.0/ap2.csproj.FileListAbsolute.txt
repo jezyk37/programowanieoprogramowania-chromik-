@@ -1,0 +1,14 @@
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\04.09.2025\ap2\ap2\bin\Debug\net8.0\ap2.exe
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\04.09.2025\ap2\ap2\bin\Debug\net8.0\ap2.deps.json
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\04.09.2025\ap2\ap2\bin\Debug\net8.0\ap2.runtimeconfig.json
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\04.09.2025\ap2\ap2\bin\Debug\net8.0\ap2.dll
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\04.09.2025\ap2\ap2\bin\Debug\net8.0\ap2.pdb
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\04.09.2025\ap2\ap2\obj\Debug\net8.0\ap2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\04.09.2025\ap2\ap2\obj\Debug\net8.0\ap2.AssemblyInfoInputs.cache
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\04.09.2025\ap2\ap2\obj\Debug\net8.0\ap2.AssemblyInfo.cs
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\04.09.2025\ap2\ap2\obj\Debug\net8.0\ap2.csproj.CoreCompileInputs.cache
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\04.09.2025\ap2\ap2\obj\Debug\net8.0\ap2.dll
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\04.09.2025\ap2\ap2\obj\Debug\net8.0\refint\ap2.dll
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\04.09.2025\ap2\ap2\obj\Debug\net8.0\ap2.pdb
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\04.09.2025\ap2\ap2\obj\Debug\net8.0\ap2.genruntimeconfig.cache
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\04.09.2025\ap2\ap2\obj\Debug\net8.0\ref\ap2.dll
