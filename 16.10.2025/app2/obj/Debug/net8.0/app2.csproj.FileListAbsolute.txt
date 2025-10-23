@@ -12,3 +12,4 @@ C:\Users\Informatyka\Desktop\Jakub Moliński4CT\programowanieoprogramowania-chro
 C:\Users\Informatyka\Desktop\Jakub Moliński4CT\programowanieoprogramowania-chromik-\16.10.2025\app2\obj\Debug\net8.0\app2.pdb
 C:\Users\Informatyka\Desktop\Jakub Moliński4CT\programowanieoprogramowania-chromik-\16.10.2025\app2\obj\Debug\net8.0\app2.genruntimeconfig.cache
 C:\Users\Informatyka\Desktop\Jakub Moliński4CT\programowanieoprogramowania-chromik-\16.10.2025\app2\obj\Debug\net8.0\ref\app2.dll
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\programowanieoprogramowania-chromik-\16.10.2025\app2\obj\Debug\net8.0\app2.sourcelink.json

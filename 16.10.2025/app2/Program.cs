@@ -4,15 +4,8 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        //Zegar zegar = new Zegar();
-        //zegar.Metoda("Warszawa", 0);
-
         Zegar zegar1 = new Zegar();
-        zegar1.Metoda("Eucla", 1);
-
-        Zegar zegar2 = new Zegar();
-        zegar2.Metoda("Biszkek", 2);
-
+        zegar1.Metoda("Warszawa", 1);
         Console.ReadKey();
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\programowanieoprogramowania-chromik-\23.10.2025\aplikacja\bin\Debug\net8.0\aplikacja.exe
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\programowanieoprogramowania-chromik-\23.10.2025\aplikacja\bin\Debug\net8.0\aplikacja.deps.json
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\programowanieoprogramowania-chromik-\23.10.2025\aplikacja\bin\Debug\net8.0\aplikacja.runtimeconfig.json
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\programowanieoprogramowania-chromik-\23.10.2025\aplikacja\bin\Debug\net8.0\aplikacja.dll
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\programowanieoprogramowania-chromik-\23.10.2025\aplikacja\bin\Debug\net8.0\aplikacja.pdb
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\programowanieoprogramowania-chromik-\23.10.2025\aplikacja\obj\Debug\net8.0\aplikacja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\programowanieoprogramowania-chromik-\23.10.2025\aplikacja\obj\Debug\net8.0\aplikacja.AssemblyInfoInputs.cache
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\programowanieoprogramowania-chromik-\23.10.2025\aplikacja\obj\Debug\net8.0\aplikacja.AssemblyInfo.cs
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\programowanieoprogramowania-chromik-\23.10.2025\aplikacja\obj\Debug\net8.0\aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\programowanieoprogramowania-chromik-\23.10.2025\aplikacja\obj\Debug\net8.0\aplikacja.sourcelink.json
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\programowanieoprogramowania-chromik-\23.10.2025\aplikacja\obj\Debug\net8.0\aplikacja.dll
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\programowanieoprogramowania-chromik-\23.10.2025\aplikacja\obj\Debug\net8.0\refint\aplikacja.dll
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\programowanieoprogramowania-chromik-\23.10.2025\aplikacja\obj\Debug\net8.0\aplikacja.pdb
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\programowanieoprogramowania-chromik-\23.10.2025\aplikacja\obj\Debug\net8.0\aplikacja.genruntimeconfig.cache
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\programowanieoprogramowania-chromik-\23.10.2025\aplikacja\obj\Debug\net8.0\ref\aplikacja.dll
