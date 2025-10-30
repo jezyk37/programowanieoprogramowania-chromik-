@@ -1,0 +1,8 @@
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\programowanieoprogramowania-chromik-\30.10.2025\app3\bin\Debug\app3.exe.config
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\programowanieoprogramowania-chromik-\30.10.2025\app3\bin\Debug\app3.exe
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\programowanieoprogramowania-chromik-\30.10.2025\app3\bin\Debug\app3.pdb
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\programowanieoprogramowania-chromik-\30.10.2025\app3\obj\Debug\app3.csproj.AssemblyReference.cache
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\programowanieoprogramowania-chromik-\30.10.2025\app3\obj\Debug\app3.csproj.CoreCompileInputs.cache
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\programowanieoprogramowania-chromik-\30.10.2025\app3\obj\Debug\app3.exe
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\programowanieoprogramowania-chromik-\30.10.2025\app3\obj\Debug\app3.pdb
+C:\Users\Informatyka\Desktop\Jakub Moliński4CT\programowanieoprogramowania-chromik-\30.10.2025\app3\obj\Debug\app3.exe.config
